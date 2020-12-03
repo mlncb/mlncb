@@ -1,4 +1,4 @@
-### Hi there 👋 I'm a new future Consultant Microsoft Dynamics 365 
+### Hi there 👋 I'm a future Consultant Microsoft Dynamics 365 
 
 - 🌱 I’m currently learning to code and manage projects !!! 
 
