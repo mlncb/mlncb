@@ -1,6 +1,10 @@
 ### Hi there 👋 I'm a future Consultant Microsoft Dynamics 365 
 
-- 🌱 I’m currently learning to code and manage projects !!! 
+- 🌱 I’m currently learning to code and manage projects on Gitjhub and Ms Project !!! 
+- 🔭 I’m working on learning and practicing several languages such as HTML, CSS, JavaScript, PHP and C#.
+
+- 😄 Pronouns: She/Her
+- 📫 Please reach me on [Linkedin](https://www.linkedin.com/in/merlyn-cassamajor-bolle-6982031b7/)
 
 <!--
 **mlncb/mlncb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
